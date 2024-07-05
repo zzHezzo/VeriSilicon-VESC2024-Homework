@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "algo_data_operation.h": "c",
+        "ppg_preprocess_api.h": "c",
+        "string.h": "c",
+        "algo_heart_rate.h": "c",
+        "climits": "c",
+        "cmath": "c",
+        "cstdarg": "c",
+        "cstdint": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "cstdbool": "c",
+        "typeinfo": "c",
+        "stdint.h": "c"
+    }
+}
